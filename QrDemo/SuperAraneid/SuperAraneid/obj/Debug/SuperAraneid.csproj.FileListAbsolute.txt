@@ -1,0 +1,20 @@
+G:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe.config
+G:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe
+G:\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FrmStrat.resources
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FromAbout.resources
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.Properties.Resources.resources
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.csproj.GenerateResource.Cache
+G:\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.exe
+G:\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+G:\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.csprojResolveAssemblyReference.cache
+D:\workdir\EnvDB\trunk\src\QrDemo\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe.config
+D:\workdir\EnvDB\trunk\src\QrDemo\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.exe
+D:\workdir\EnvDB\trunk\src\QrDemo\SuperAraneid\SuperAraneid\obj\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+D:\workdir\EnvDB\trunk\src\QrDemo\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.exe
+D:\workdir\EnvDB\trunk\src\QrDemo\SuperAraneid\SuperAraneid\bin\Debug\Lorna网站图片爬虫 测试V1.0.pdb
+D:\workdir\EnvDB\trunk\src\QrDemo\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.csprojResolveAssemblyReference.cache
+D:\workdir\EnvDB\trunk\src\QrDemo\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FrmStrat.resources
+D:\workdir\EnvDB\trunk\src\QrDemo\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.FromAbout.resources
+D:\workdir\EnvDB\trunk\src\QrDemo\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.Properties.Resources.resources
+D:\workdir\EnvDB\trunk\src\QrDemo\SuperAraneid\SuperAraneid\obj\Debug\SuperAraneid.csproj.GenerateResource.Cache
